@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Austin Merrick. I enjoy making things.
+My name is Austin Merrick. This blog will be about general self-improvement and whatever else I find interesting.
 
 ### Contact me
 
