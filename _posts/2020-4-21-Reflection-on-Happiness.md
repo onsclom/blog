@@ -24,3 +24,6 @@ Fun little teaser for the game's mechanics:
 ## Conclusion
 
 It is so easy to resort to youtube or reddit for hits of dopamine while ignoring the things that may take more effort but are more rewarding. The thing that has shocked me is that once you put in the effort to start a habit, it becomes so easy to continue that habit. I actually cannot imagine quitting this 30 day leetcode challenge or music challenge now, and when they are done I will probably have to replace them with something new. I have learned thoughts of "I should do X" being followed by mindless consumption can be really toxic. Once we rid ourself of that vicious cycle I think we live a much more purposeful and enjoyable life.
+
+
+
