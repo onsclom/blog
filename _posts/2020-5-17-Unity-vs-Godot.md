@@ -3,8 +3,6 @@ layout: post
 title: Unity vs Godot
 ---
 
-# Unity vs Godot
-
 ## Quick Update
 
 I am done with finals and have free time again! I have been using that time to learn how to use Godot. This blog post will be different than my previous ones in that it will be dedicated to comparing the two game engines. I will break down many aspects of the two engines and explain why Godot seems to be better in every category.
